@@ -1,8 +1,8 @@
+
 get '/' do
     puts 123.to_s
-    "Hello World"
+    "Welcome Guys"
   end
-
  get '/baskinbin' do
     puts "get 들어왔습니다."
     @a=80

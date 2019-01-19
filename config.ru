@@ -1,4 +1,5 @@
 require 'sinatra'
+require './test result/student result.rb' #성적표
 require './vct.rb'
 require './test/dd.rb'
 
